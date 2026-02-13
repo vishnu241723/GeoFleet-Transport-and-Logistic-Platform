@@ -36,7 +36,9 @@ Built using modern frontend technologies, this project demonstrates dynamic data
 The map visualizes transport routes across Tamil Nadu:
 
 Rajapalayam → Virudhunagar
+
 Virudhunagar → Madurai
+
 Madurai → Dindigul
 
 Each route includes animated truck movement with popups displaying:
