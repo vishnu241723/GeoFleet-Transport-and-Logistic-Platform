@@ -11,7 +11,7 @@ Madurai → Dindigul
 
 Built using modern frontend technologies, this project demonstrates dynamic data rendering, route visualization, and responsive dashboard design.
 
-## Features
+## 🔍 Features
 - 🔐 Demo Login Authentication 
 - 📊 Interactive Dashboard with KPI cards
 - 📦 Loads Management
