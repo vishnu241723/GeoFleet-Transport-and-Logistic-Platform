@@ -31,7 +31,7 @@ Built using modern frontend technologies, this project demonstrates dynamic data
 - Leaflet.js (GPS Map Integration)
 - OpenStreetMap Tiles
 
-## Route Coverage
+## 🌍 Route Coverage
 
 The map visualizes transport routes across Tamil Nadu:
 
