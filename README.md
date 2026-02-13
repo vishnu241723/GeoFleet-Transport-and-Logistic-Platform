@@ -4,7 +4,9 @@ GEOFLEET is a web-based logistics and fleet management dashboard designed to mon
 The system includes an interactive GPS map showing smooth animated vehicle movement across major Tamil Nadu routes:
 
 Rajapalayam → Virudhunagar
+
 Virudhunagar → Madurai
+
 Madurai → Dindigul
 
 Built using modern frontend technologies, this project demonstrates dynamic data rendering, route visualization, and responsive dashboard design.
