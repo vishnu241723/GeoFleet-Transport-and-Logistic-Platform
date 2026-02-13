@@ -1,0 +1,73 @@
+:root {
+  --sidebar-width: 240px;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6f9;
+}
+
+/* LOGIN */
+#loginPage {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg,#1f2a37,#3b82f6);
+}
+
+#loginBox {
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  width: 380px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.3);
+}
+
+/* SIDEBAR */
+.sidebar {
+  width: var(--sidebar-width);
+  min-height: 100vh;
+  background: #1f2a37;
+  color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 20px;
+  display: none;
+}
+
+.sidebar a {
+  display: block;
+  padding: 10px;
+  margin-bottom: 8px;
+  color: #cbd5e1;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+.sidebar a:hover,
+.sidebar a.active {
+  background: #334155;
+  color: white;
+}
+
+/* CONTENT */
+.content {
+  margin-left: var(--sidebar-width);
+  padding: 25px;
+  display: none;
+}
+
+.kpi-card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,.08);
+}
+
+/* MAP */
+#map {
+  height: 450px;
+  border-radius: 10px;
+}
